@@ -1,0 +1,9 @@
+aside {
+  background: red;
+  width: 20vw;
+}
+
+aside nav ul {
+  display: flex;
+  flex-direction: column;
+}
